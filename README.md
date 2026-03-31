@@ -50,7 +50,7 @@ e4
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Main/
